@@ -8,7 +8,7 @@ Cross-Validation Function that firstly applys the previously defined Transofrmat
 ### 3. Comparing the models
 Plotting the best models' accuracies and Standard Deviations, as well as the Confusion Matrices against each other.
 
-## Part 2: NumPy Implementation of a Neural Network for Crop Classification
+## Part 2: Raw NumPy Implementation of a Neural Network for Crop Classification
 ### 1. Feature Engineering
 The same steps were applied as in the 1st Part.
 ### 2. Neural Network Function
